@@ -13,7 +13,7 @@ export default function Page() {
         <input type="username"/>
         <label>Password:</label>
         <input type="password"/>
-        <Link href='/home'><button>Login</button></Link>
+        <Link href="/home"><button>Login</button></Link>
       </div>
     </main>
   );

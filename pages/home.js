@@ -3,6 +3,7 @@
 export default function Home() {
     return(
         <main>
+            <h1>Bikeroot</h1>
             <div className="membership-table">
                 <div className="memberId">
                     <ul>
